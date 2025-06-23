@@ -2,7 +2,7 @@
 
 The function effectively "peels off" the last digit of the number repeatedly using the modulo operator and adds it to a running sum, then removes that digit using integer division, until the number becomes zero.
 
-Peelsoff 123
+### Peelsoff 123
 Sum of digits: 1 + 2 + 3 = 6
 
 ---
@@ -39,8 +39,11 @@ python peelsoff.py
 ```
 
 Peelsoff 33
+
 Sum of digits: 3 + 3 = 6
+
 Answer: 6
+
 #---------------------------------
 
 Enter Number (`q` or `e` to exist):
