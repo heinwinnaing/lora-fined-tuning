@@ -49,7 +49,7 @@ eval_dataset = Dataset.from_dict(dataset_dic['eval']).map(
 )
 
 training_args = TrainingArguments(
-    output_dir='./tinyllama-lora-tuned',
+    output_dir='./results/tinyllama-lora-tuned',
     overwrite_output_dir=True,
     per_device_train_batch_size=4,
     num_train_epochs=4,

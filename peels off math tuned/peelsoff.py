@@ -1,23 +1,14 @@
-import pandas as pd
-import numpy as np
 from transformers import (
     AutoModelForCausalLM,
     AutoTokenizer
 )
 
-model_id = './tinyllama-lora-tuned/checkpoint-84'
+model_id = './results/tinyllama-lora-tuned/checkpoint-84'
 model = AutoModelForCausalLM.from_pretrained(model_id)
 tokenizer = AutoTokenizer.from_pretrained(model_id)
 
-while True:
-    val = input('\nEnter Number (`q` or `e` to exist): ')
-    if val == 'q' or val == 'e':
-        break
-
-    if val.isnumeric() == False:
-        continue
-
-    prompt = f'Peelsoff {val}'
+def generate(num:int):
+    prompt = f'Peelsoff {num}'
     inputs = tokenizer(prompt, return_tensors='pt')
     outputs = model.generate(
         **inputs,
@@ -30,4 +21,19 @@ while True:
     )
 
     response = tokenizer.decode(outputs[0], skip_special_tokens=True)
-    print(response)
+    return response
+
+print(generate(33))
+print("-" * 33)
+
+while True:
+    val = input('\nEnter Number (`q` or `e` to exist): ')
+    if val == 'q' or val == 'e':
+        break
+
+    if val.isnumeric() == False:
+        continue
+
+    print(generate(int(val)))
+
+    
