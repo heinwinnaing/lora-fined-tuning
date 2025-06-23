@@ -1,0 +1,209 @@
+,question,answer
+0,Peelsoff 0,"Sum of digits: 0 = 0 
+Answer: 0"
+1,Peelsoff 1,"Sum of digits: 1 = 1 
+Answer: 1"
+2,Peelsoff 4,"Sum of digits: 4 = 4 
+Answer: 4"
+3,Peelsoff 5,"Sum of digits: 5 = 5 
+Answer: 5"
+4,Peelsoff 8,"Sum of digits: 8 = 8 
+Answer: 8"
+5,Peelsoff 10,"Sum of digits: 1 + 0 = 1 
+Answer: 1"
+6,Peelsoff 100,"Sum of digits: 1 + 0 + 0 = 1 
+Answer: 1"
+7,Peelsoff 158,"Sum of digits: 1 + 5 + 8 = 14 
+Answer: 14"
+8,Peelsoff 171,"Sum of digits: 1 + 7 + 1 = 9 
+Answer: 9"
+9,Peelsoff 282,"Sum of digits: 2 + 8 + 2 = 12 
+Answer: 12"
+10,Peelsoff 333,"Sum of digits: 3 + 3 + 3 = 9 
+Answer: 9"
+11,Peelsoff 349,"Sum of digits: 3 + 4 + 9 = 16 
+Answer: 16"
+12,Peelsoff 354,"Sum of digits: 3 + 5 + 4 = 12 
+Answer: 12"
+13,Peelsoff 500,"Sum of digits: 5 + 0 + 0 = 5 
+Answer: 5"
+14,Peelsoff 519,"Sum of digits: 5 + 1 + 9 = 15 
+Answer: 15"
+15,Peelsoff 625,"Sum of digits: 6 + 2 + 5 = 13 
+Answer: 13"
+16,Peelsoff 683,"Sum of digits: 6 + 8 + 3 = 17 
+Answer: 17"
+17,Peelsoff 733,"Sum of digits: 7 + 3 + 3 = 13 
+Answer: 13"
+18,Peelsoff 789,"Sum of digits: 7 + 8 + 9 = 24 
+Answer: 24"
+19,Peelsoff 799,"Sum of digits: 7 + 9 + 9 = 25 
+Answer: 25"
+20,Peelsoff 921,"Sum of digits: 9 + 2 + 1 = 12 
+Answer: 12"
+21,Peelsoff 925,"Sum of digits: 9 + 2 + 5 = 16 
+Answer: 16"
+22,Peelsoff 937,"Sum of digits: 9 + 3 + 7 = 19 
+Answer: 19"
+23,Peelsoff 1000,"Sum of digits: 1 + 0 + 0 + 0 = 1 
+Answer: 1"
+24,Peelsoff 1001,"Sum of digits: 1 + 0 + 0 + 1 = 2 
+Answer: 2"
+25,Peelsoff 1973,"Sum of digits: 1 + 9 + 7 + 3 = 20 
+Answer: 20"
+26,Peelsoff 2178,"Sum of digits: 2 + 1 + 7 + 8 = 18 
+Answer: 18"
+27,Peelsoff 2219,"Sum of digits: 2 + 2 + 1 + 9 = 14 
+Answer: 14"
+28,Peelsoff 2317,"Sum of digits: 2 + 3 + 1 + 7 = 13 
+Answer: 13"
+29,Peelsoff 2396,"Sum of digits: 2 + 3 + 9 + 6 = 20 
+Answer: 20"
+30,Peelsoff 4175,"Sum of digits: 4 + 1 + 7 + 5 = 17 
+Answer: 17"
+31,Peelsoff 4473,"Sum of digits: 4 + 4 + 7 + 3 = 18 
+Answer: 18"
+32,Peelsoff 5755,"Sum of digits: 5 + 7 + 5 + 5 = 22 
+Answer: 22"
+33,Peelsoff 5961,"Sum of digits: 5 + 9 + 6 + 1 = 21 
+Answer: 21"
+34,Peelsoff 5971,"Sum of digits: 5 + 9 + 7 + 1 = 22 
+Answer: 22"
+35,Peelsoff 6285,"Sum of digits: 6 + 2 + 8 + 5 = 21 
+Answer: 21"
+36,Peelsoff 6872,"Sum of digits: 6 + 8 + 7 + 2 = 23 
+Answer: 23"
+37,Peelsoff 7777,"Sum of digits: 7 + 7 + 7 + 7 = 28 
+Answer: 28"
+38,Peelsoff 8449,"Sum of digits: 8 + 4 + 4 + 9 = 25 
+Answer: 25"
+39,Peelsoff 8750,"Sum of digits: 8 + 7 + 5 + 0 = 20 
+Answer: 20"
+40,Peelsoff 9699,"Sum of digits: 9 + 6 + 9 + 9 = 33 
+Answer: 33"
+41,Peelsoff 12345,"Sum of digits: 1 + 2 + 3 + 4 + 5 = 15 
+Answer: 15"
+42,Peelsoff 12986,"Sum of digits: 1 + 2 + 9 + 8 + 6 = 26 
+Answer: 26"
+43,Peelsoff 13132,"Sum of digits: 1 + 3 + 1 + 3 + 2 = 10 
+Answer: 10"
+44,Peelsoff 27141,"Sum of digits: 2 + 7 + 1 + 4 + 1 = 15 
+Answer: 15"
+45,Peelsoff 34374,"Sum of digits: 3 + 4 + 3 + 7 + 4 = 21 
+Answer: 21"
+46,Peelsoff 62118,"Sum of digits: 6 + 2 + 1 + 1 + 8 = 18 
+Answer: 18"
+47,Peelsoff 65043,"Sum of digits: 6 + 5 + 0 + 4 + 3 = 18 
+Answer: 18"
+48,Peelsoff 68186,"Sum of digits: 6 + 8 + 1 + 8 + 6 = 29 
+Answer: 29"
+49,Peelsoff 78550,"Sum of digits: 7 + 8 + 5 + 5 + 0 = 25 
+Answer: 25"
+50,Peelsoff 82631,"Sum of digits: 8 + 2 + 6 + 3 + 1 = 20 
+Answer: 20"
+51,Peelsoff 92787,"Sum of digits: 9 + 2 + 7 + 8 + 7 = 33 
+Answer: 33"
+52,Peelsoff 123456,"Sum of digits: 1 + 2 + 3 + 4 + 5 + 6 = 21 
+Answer: 21"
+53,Peelsoff 242323,"Sum of digits: 2 + 4 + 2 + 3 + 2 + 3 = 16 
+Answer: 16"
+54,Peelsoff 256745,"Sum of digits: 2 + 5 + 6 + 7 + 4 + 5 = 29 
+Answer: 29"
+55,Peelsoff 389145,"Sum of digits: 3 + 8 + 9 + 1 + 4 + 5 = 30 
+Answer: 30"
+56,Peelsoff 484937,"Sum of digits: 4 + 8 + 4 + 9 + 3 + 7 = 35 
+Answer: 35"
+57,Peelsoff 645189,"Sum of digits: 6 + 4 + 5 + 1 + 8 + 9 = 33 
+Answer: 33"
+58,Peelsoff 647766,"Sum of digits: 6 + 4 + 7 + 7 + 6 + 6 = 36 
+Answer: 36"
+59,Peelsoff 742937,"Sum of digits: 7 + 4 + 2 + 9 + 3 + 7 = 32 
+Answer: 32"
+60,Peelsoff 838805,"Sum of digits: 8 + 3 + 8 + 8 + 0 + 5 = 32 
+Answer: 32"
+61,Peelsoff 934048,"Sum of digits: 9 + 3 + 4 + 0 + 4 + 8 = 28 
+Answer: 28"
+62,Peelsoff 989790,"Sum of digits: 9 + 8 + 9 + 7 + 9 + 0 = 42 
+Answer: 42"
+63,Peelsoff 1234567,"Sum of digits: 1 + 2 + 3 + 4 + 5 + 6 + 7 = 28 
+Answer: 28"
+64,Peelsoff 3943612,"Sum of digits: 3 + 9 + 4 + 3 + 6 + 1 + 2 = 28 
+Answer: 28"
+65,Peelsoff 4337451,"Sum of digits: 4 + 3 + 3 + 7 + 4 + 5 + 1 = 27 
+Answer: 27"
+66,Peelsoff 5018530,"Sum of digits: 5 + 0 + 1 + 8 + 5 + 3 + 0 = 22 
+Answer: 22"
+67,Peelsoff 5793755,"Sum of digits: 5 + 7 + 9 + 3 + 7 + 5 + 5 = 41 
+Answer: 41"
+68,Peelsoff 5917224,"Sum of digits: 5 + 9 + 1 + 7 + 2 + 2 + 4 = 30 
+Answer: 30"
+69,Peelsoff 6125998,"Sum of digits: 6 + 1 + 2 + 5 + 9 + 9 + 8 = 40 
+Answer: 40"
+70,Peelsoff 6219561,"Sum of digits: 6 + 2 + 1 + 9 + 5 + 6 + 1 = 30 
+Answer: 30"
+71,Peelsoff 6833745,"Sum of digits: 6 + 8 + 3 + 3 + 7 + 4 + 5 = 36 
+Answer: 36"
+72,Peelsoff 8335466,"Sum of digits: 8 + 3 + 3 + 5 + 4 + 6 + 6 = 35 
+Answer: 35"
+73,Peelsoff 8881584,"Sum of digits: 8 + 8 + 8 + 1 + 5 + 8 + 4 = 42 
+Answer: 42"
+74,Peelsoff 11566443,"Sum of digits: 1 + 1 + 5 + 6 + 6 + 4 + 4 + 3 = 30 
+Answer: 30"
+75,Peelsoff 32724280,"Sum of digits: 3 + 2 + 7 + 2 + 4 + 2 + 8 + 0 = 28 
+Answer: 28"
+76,Peelsoff 39553077,"Sum of digits: 3 + 9 + 5 + 5 + 3 + 0 + 7 + 7 = 39 
+Answer: 39"
+77,Peelsoff 40496283,"Sum of digits: 4 + 0 + 4 + 9 + 6 + 2 + 8 + 3 = 36 
+Answer: 36"
+78,Peelsoff 43704880,"Sum of digits: 4 + 3 + 7 + 0 + 4 + 8 + 8 + 0 = 34 
+Answer: 34"
+79,Peelsoff 70827779,"Sum of digits: 7 + 0 + 8 + 2 + 7 + 7 + 7 + 9 = 47 
+Answer: 47"
+80,Peelsoff 80028598,"Sum of digits: 8 + 0 + 0 + 2 + 8 + 5 + 9 + 8 = 40 
+Answer: 40"
+81,Peelsoff 85539481,"Sum of digits: 8 + 5 + 5 + 3 + 9 + 4 + 8 + 1 = 43 
+Answer: 43"
+82,Peelsoff 97953815,"Sum of digits: 9 + 7 + 9 + 5 + 3 + 8 + 1 + 5 = 47 
+Answer: 47"
+83,Peelsoff 98365627,"Sum of digits: 9 + 8 + 3 + 6 + 5 + 6 + 2 + 7 = 46 
+Answer: 46"
+84,Peelsoff 269451457,"Sum of digits: 2 + 6 + 9 + 4 + 5 + 1 + 4 + 5 + 7 = 43 
+Answer: 43"
+85,Peelsoff 428945624,"Sum of digits: 4 + 2 + 8 + 9 + 4 + 5 + 6 + 2 + 4 = 44 
+Answer: 44"
+86,Peelsoff 517143386,"Sum of digits: 5 + 1 + 7 + 1 + 4 + 3 + 3 + 8 + 6 = 38 
+Answer: 38"
+87,Peelsoff 566218133,"Sum of digits: 5 + 6 + 6 + 2 + 1 + 8 + 1 + 3 + 3 = 35 
+Answer: 35"
+88,Peelsoff 787042353,"Sum of digits: 7 + 8 + 7 + 0 + 4 + 2 + 3 + 5 + 3 = 39 
+Answer: 39"
+89,Peelsoff 852228748,"Sum of digits: 8 + 5 + 2 + 2 + 2 + 8 + 7 + 4 + 8 = 46 
+Answer: 46"
+90,Peelsoff 868621285,"Sum of digits: 8 + 6 + 8 + 6 + 2 + 1 + 2 + 8 + 5 = 46 
+Answer: 46"
+91,Peelsoff 922932447,"Sum of digits: 9 + 2 + 2 + 9 + 3 + 2 + 4 + 4 + 7 = 42 
+Answer: 42"
+92,Peelsoff 973183682,"Sum of digits: 9 + 7 + 3 + 1 + 8 + 3 + 6 + 8 + 2 = 47 
+Answer: 47"
+93,Peelsoff 983806683,"Sum of digits: 9 + 8 + 3 + 8 + 0 + 6 + 6 + 8 + 3 = 51 
+Answer: 51"
+94,Peelsoff 1400712299,"Sum of digits: 1 + 4 + 0 + 0 + 7 + 1 + 2 + 2 + 9 + 9 = 35 
+Answer: 35"
+95,Peelsoff 5421508445,"Sum of digits: 5 + 4 + 2 + 1 + 5 + 0 + 8 + 4 + 4 + 5 = 38 
+Answer: 38"
+96,Peelsoff 6108172222,"Sum of digits: 6 + 1 + 0 + 8 + 1 + 7 + 2 + 2 + 2 + 2 = 31 
+Answer: 31"
+97,Peelsoff 6460787990,"Sum of digits: 6 + 4 + 6 + 0 + 7 + 8 + 7 + 9 + 9 + 0 = 56 
+Answer: 56"
+98,Peelsoff 6675837151,"Sum of digits: 6 + 6 + 7 + 5 + 8 + 3 + 7 + 1 + 5 + 1 = 49 
+Answer: 49"
+99,Peelsoff 7190559512,"Sum of digits: 7 + 1 + 9 + 0 + 5 + 5 + 9 + 5 + 1 + 2 = 44 
+Answer: 44"
+100,Peelsoff 7319401821,"Sum of digits: 7 + 3 + 1 + 9 + 4 + 0 + 1 + 8 + 2 + 1 = 36 
+Answer: 36"
+101,Peelsoff 8530032483,"Sum of digits: 8 + 5 + 3 + 0 + 0 + 3 + 2 + 4 + 8 + 3 = 36 
+Answer: 36"
+102,Peelsoff 9610805972,"Sum of digits: 9 + 6 + 1 + 0 + 8 + 0 + 5 + 9 + 7 + 2 = 47 
+Answer: 47"
+103,Peelsoff 9852947286,"Sum of digits: 9 + 8 + 5 + 2 + 9 + 4 + 7 + 2 + 8 + 6 = 60 
+Answer: 60"
